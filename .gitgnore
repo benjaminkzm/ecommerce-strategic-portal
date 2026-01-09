@@ -1,0 +1,10 @@
+# Data and Database files
+database/
+data/
+*.db
+*.csv
+
+# Python environment
+__pycache__/
+.venv/
+.env
