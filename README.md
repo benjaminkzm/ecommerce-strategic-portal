@@ -93,7 +93,7 @@ Heatmap visualizations reveal that **São Paulo** serves as the primary revenue 
 
 1. Clone the repo:
 ```bash
-git clone [https://github.com/benjaminkzm/ecommerce-strategic-portal.git](https://github.com/benjaminkzm/ecommerce-strategic-portal.git)
+git clone [https://github.com/benjaminkzm/ecommerce-strategic-portal.git]
 ```
 2. Install dependencies:
 ```bash
@@ -114,5 +114,6 @@ streamlit run app.py
 [ ] NLP for Reviews: Using Sentiment Analysis to explain revenue dips identified by Prophet.
 
 [ ] Warehouse Optimization: K-Means clustering of zip codes to recommend new fulfillment center locations.
+
 
 
