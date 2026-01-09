@@ -110,6 +110,9 @@ streamlit run app.py
 
 ## 🔮 Roadmap
 [ ] CLV Modeling: Predicting Customer Lifetime Value based on purchase frequency.
+
 [ ] NLP for Reviews: Using Sentiment Analysis to explain revenue dips identified by Prophet.
+
 [ ] Warehouse Optimization: K-Means clustering of zip codes to recommend new fulfillment center locations.
+
 
